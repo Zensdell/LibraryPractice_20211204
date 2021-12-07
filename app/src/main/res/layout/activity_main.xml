@@ -14,15 +14,16 @@
         android:orientation="vertical"
         android:gravity="center">
 
-    <ImageView
-        android:src="@drawable/iu_pic"
-        android:layout_width="80dp"
-        android:layout_height="80dp"/>
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:src="@drawable/iu_pic"
+            app:civ_border_width="2dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"/>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="아이유"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="아이유"/>
 
 
     </LinearLayout>
