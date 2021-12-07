@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LibrartPractice_20211204">
         <activity
+            android:theme="@style/Theme.AppCompat.NoActionBar"
             android:name=".ViewPhotoActivity"
             android:exported="true" />
         <activity

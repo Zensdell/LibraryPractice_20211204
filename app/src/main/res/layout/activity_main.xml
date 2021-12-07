@@ -15,6 +15,7 @@
         android:gravity="center">
 
         <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/imgProfile"
             android:src="@drawable/iu_pic"
             app:civ_border_width="2dp"
             android:layout_width="80dp"
