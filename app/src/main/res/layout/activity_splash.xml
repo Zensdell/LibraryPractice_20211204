@@ -9,9 +9,12 @@
     tools:context=".SplashActivity">
 
 
-    <ImageView
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:src="@mipmap/ic_launcher"/>
+
+    <com.airbnb.lottie.LottieAnimationView
+        app:lottie_loop="true"
+        app:lottie_autoPlay="true"
+        app:lottie_rawRes="@raw/santa"
+        android:layout_width="300dp"
+        android:layout_height="300dp"/>
 
 </LinearLayout>
