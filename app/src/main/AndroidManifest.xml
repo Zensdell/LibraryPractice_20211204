@@ -3,6 +3,7 @@
     package="com.kkk.librartpractice_20211204">
 
     <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
 
 
     <application

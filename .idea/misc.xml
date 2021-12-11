@@ -5,10 +5,11 @@
       <map>
         <entry key="..\:/Users/Kusee/AndroidStudioProjects/LibrartPractice_20211204/app/src/main/res/layout/activity_main.xml" value="0.3605128205128205" />
         <entry key="..\:/Users/Kusee/AndroidStudioProjects/LibrartPractice_20211204/app/src/main/res/layout/activity_view_photo.xml" value="0.2875" />
+        <entry key="..\:/Users/NePPPlus_013/AndroidStudioProjects/NewLibraryPractice_20211204/app/src/main/res/layout/activity_main.xml" value="0.2046875" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

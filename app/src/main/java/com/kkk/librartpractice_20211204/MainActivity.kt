@@ -6,6 +6,7 @@ import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
+import com.bumptech.glide.Glide
 import com.gun0912.tedpermission.PermissionListener
 import com.gun0912.tedpermission.normal.TedPermission
 import kotlinx.android.synthetic.main.activity_main.*
@@ -70,6 +71,10 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun setValues() {
+
+        val imageURL = "https://dimg.donga.com/wps/NEWS/IMAGE/2021/01/17/104953245.2.jpg"
+       Glide.with(this).load(imageURL).into(imageInternet)
+
 
     }
 
